@@ -1,0 +1,100 @@
+.body{
+    background-color: #fafafa;
+}
+.LoginPage_main{
+    display:flex;
+    margin-top: 10px;
+    margin-left: -65px;
+
+}
+.LoginPage_logo {
+    width:175px;
+    margin-top: 25px;
+
+}
+.LoginPage_rightcomponent {
+    height: 380px;
+    width: 350px;
+    border: 1px solid #dbdbdb;
+    margin-top: 25px;
+    text-align: center;
+    background-color: white;
+
+}
+.LoginPage_signin{
+    margin-top:25px;
+}
+.LoginPage_text {
+    width:256px;
+    height:36px;
+    margin: 5px;
+    border: 1px solid #dbdbdb;
+    background-color: #fafafa;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+.LoginPage_button {
+    width:278px;
+    height: 36px;
+    border-radius: 5px;
+    font-weight: bold;
+    border: 1px solid #0395f6;
+    background-color: #0395f6;
+    color: white;
+    margin-top: 5px;
+}
+.Login_divider{
+    width: 110px;
+    border: 1px solid #dbdbdb;
+    height: 0px;
+    margin-top: 10px;
+}
+.Login_ordiv{
+display: flex;
+justify-content: center;
+margin-top: 20px;
+}
+.Login_or{
+    margin:0px 10px;
+    font-weight: bold;
+    color: #bebebe;
+
+}
+.Login_fb{
+color:#395185;
+font-weight: bold;
+margin-top: 5px;
+}
+.Login_forgot{
+    color: rgba(var(--fe0,0,55,107),1);
+    font-size: 12px;
+    line-height: 14px;
+    margin-top: 12px;
+    text-align: center;
+}
+.LoginPage_signupoption{
+    margin-top: 25px;
+    height: 56px;
+    width: 350px;
+    background-color: white;
+    border: 1px solid #dbdbdb;
+    text-align: center;
+}
+.LoginPage_downloadSection{
+height:105px;
+width: 350px;
+text-align: center;
+margin-top: 20px;
+}
+/* .LoginPage_signin{
+
+}
+.LoginPage_signup{
+
+} */
+.LoginPage_option{
+margin-top: 20px;
+}
+.LoginPage_dwing{
+margin: 5px;
+}

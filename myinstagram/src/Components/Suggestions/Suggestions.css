@@ -1,0 +1,23 @@
+.suggestions {
+  height: 350px;
+  width: 300px;
+  margin-top: 25px;
+  margin-left: -27px;
+}
+.suggestions__header {
+  font-weight: bold;
+  color: #8e8e8e;
+}
+.Suggestion_frnd {
+font-weight: bold;
+margin-top: 7px;
+margin-left: 5px;
+
+}
+.suggestion_body {
+    margin-top: 15px;
+}
+.suggestion_body__person {
+    display: flex;
+    padding: 5px;
+}

@@ -1,0 +1,43 @@
+.post_header{
+height: 60px;
+border-bottom: 1px solid #dbdbdb ;
+display: flex;
+
+
+}
+.post_like{
+margin-top: -130px;
+}
+/* .post_comment{
+
+} */
+.post_container{
+    width: 615px;
+    border: 1px solid #dbdbdb;
+    background-color: #fff;
+    margin-top: 25px;
+}
+.post_image{
+min-height: 30px;
+min-width: 3px;
+margin: 10px;
+}
+.Post_username{
+margin-top: 20px;
+font-weight: bold;
+}
+.post_reactimage{
+width: 25px;
+margin: 5px;
+
+}
+.commentbox{
+    border: 1px solid #dbdbdb;
+    width: 602px;
+    height : 56px;
+    padding-left: 10px;
+    font-size: 16px;
+}
+.postcomment{
+margin: 10px;
+    }
